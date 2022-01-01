@@ -1,0 +1,14 @@
+{
+  "name": "bower_components",
+  "version": "1.0.1",
+  "authors": [
+    "Le Xuan Huynh <huynhlx4@gmail.com>"
+  ],
+  "description": "Libraries for chat room",
+  "main": "/",
+  "keywords": [
+    "libraries-for-chat-room"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Huynh12345678/Chat_Room_Libraries.git"
+}
